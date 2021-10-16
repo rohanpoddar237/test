@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/automation testing sw/jar_files_alldriver/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="E:/automation testing sw/jar_files_alldriver/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="E:/automation testing sw/jar_files_alldriver/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/automation testing sw/jar_files_alldriver/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="E:/automation testing sw/jar_files_alldriver/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="E:/automation testing sw/jar_files_alldriver/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/automation testing sw/jar_files_alldriver/cssparser-0.9.22.jar"/>
+	<classpathentry kind="lib" path="E:/automation testing sw/jar_files_alldriver/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="E:/automation testing sw/jar_files_alldriver/guava-21.0.jar"/>
+	<classpathentry kind="lib" path="E:/automation testing sw/jar_files_alldriver/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/automation testing sw/jar_files_alldriver/htmlunit-2.26.jar"/>
+	<classpathentry kind="lib" path="E:/automation testing sw/jar_files_alldriver/htmlunit-core-js-2.26.jar"/>
+	<classpathentry kind="lib" path="E:/automation testing sw/jar_files_alldriver/htmlunit-driver-2.26.jar"/>
+	<classpathentry kind="lib" path="E:/automation testing sw/jar_files_alldriver/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="E:/automation testing sw/jar_files_alldriver/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="E:/automation testing sw/jar_files_alldriver/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="E:/automation testing sw/jar_files_alldriver/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/automation testing sw/jar_files_alldriver/jetty-client-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="E:/automation testing sw/jar_files_alldriver/jetty-http-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="E:/automation testing sw/jar_files_alldriver/jetty-io-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="E:/automation testing sw/jar_files_alldriver/jetty-util-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="E:/automation testing sw/jar_files_alldriver/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/automation testing sw/jar_files_alldriver/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/automation testing sw/jar_files_alldriver/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="E:/automation testing sw/jar_files_alldriver/neko-htmlunit-2.25.jar"/>
+	<classpathentry kind="lib" path="E:/automation testing sw/jar_files_alldriver/phantomjsdriver-1.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/automation testing sw/jar_files_alldriver/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/automation testing sw/jar_files_alldriver/selenium-api-3.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/automation testing sw/jar_files_alldriver/selenium-chrome-driver-3.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/automation testing sw/jar_files_alldriver/selenium-edge-driver-3.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/automation testing sw/jar_files_alldriver/selenium-firefox-driver-3.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/automation testing sw/jar_files_alldriver/selenium-ie-driver-3.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/automation testing sw/jar_files_alldriver/selenium-java-3.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/automation testing sw/jar_files_alldriver/selenium-opera-driver-3.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/automation testing sw/jar_files_alldriver/selenium-remote-driver-3.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/automation testing sw/jar_files_alldriver/selenium-safari-driver-3.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/automation testing sw/jar_files_alldriver/selenium-support-3.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/automation testing sw/jar_files_alldriver/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="E:/automation testing sw/jar_files_alldriver/websocket-api-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="E:/automation testing sw/jar_files_alldriver/websocket-client-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="E:/automation testing sw/jar_files_alldriver/websocket-common-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="E:/automation testing sw/jar_files_alldriver/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="E:/automation testing sw/jar_files_alldriver/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/automation testing sw/jar_files_alldriver/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
